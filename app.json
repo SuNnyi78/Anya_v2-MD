@@ -1,45 +1,45 @@
 {
-    "name": "Queen Anya Ver.2",
-    "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
+    "name": "𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈",
+    "description": "MenTaL_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
     "repository": "https://github.COM/PikaBotz/Anya_v2-MD",
     "logo": "https://i.ibb.co/bgfFFjF/Videoshot-20221026-164328.jpg",
     "keywords": ["Automation", "Innovation", "Versatility", "Efficiency", "Messaging", "Chatbot", "Integration", "Customization", "Ease of Use", "Personalization"],
     "success_url": "/",
     "stack": "container",
     "env": {
-         "BotName": {
+         "BotName": { 𝑼𝑫 𝑩𝑼𝑮🇵🇰✨
              "description": "Enter your desired bot\"s name (Eg:- Queen Anya)",
              "required": false
          },
          "Footer": {
-            "description": "Enter your bot's watermark (Eg:- Anya Bot)",
+            "description": "Enter your bot's watermark (Eg:- MenTaL Bot)",
             "required": false
          },
          "Prefix": {
             "description": "Enter a prefix for single prefix mode (Eg:- !, -, /, etc...)",
-            "required": false
-         },
-         "ThemeEmoji": {
-            "description": "Enter your favourite emoji",
-            "required": false
-         },
-         "Owner_Name": {
-            "description": "Enter owner's name",
             "required": true
          },
-         "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+         "ThemeEmoji": {
+            "description": "Enter your favourite emoji", 🙂
+            "required": true
+         },
+         "Owner_Name": { 𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈
+            "description": "Enter owner's name", 𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈
+            "required": true
+         },
+         "Owner_Number": { 923477103574
+            "description": "Enter Owner's Number with country code", 923477103574
             "required": true
          },
          "Insta": {
-            "description": "Enter your Instragram's id",
+            "description": "Enter your Instragram's id", sunny_hu_yawr
+            "required": true
+         },
+         "Author": { MENTAL-BOT
+            "description": "Enter sticker author name", 𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈
             "required": false
          },
-         "Author": {
-            "description": "Enter sticker author name",
-            "required": false
-         },
-         "PackName": {
+         "PackName": { 𒁍😾𝑻𝑯ع𓆩๛⃝𝑺𝒖𝑵𝑵𝒚 𝑩𝑼ٹ𝑻‣᭄𓆪✨𑁍 ̽•››̈
             "description": "Enter sticker pack's name",
             "required": false
          },
@@ -51,9 +51,9 @@
             "description": "Enter your group link",
             "required": false
          },
-         "Warn_Limits": {
-            "description": "Enter user's warns limit",
-            "required": false
+         "Warn_Limits": { 3
+            "description": "Enter user's warns limit", 3
+            "required": true
          },
          "MongoDB": {
             "description": "Enter your mongodb connection url",
